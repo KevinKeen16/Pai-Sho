@@ -131,6 +131,32 @@
     <None Include="Pai Sho_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Art Assets\Splash Screen\Splash 1240x600.png" />
+    <Content Include="Assets\Art Assets\Splash Screen\Splash 2480x1200.png" />
+    <Content Include="Assets\Art Assets\Splash Screen\Splash 620x300.png" />
+    <Content Include="Assets\Art Assets\Splash Screen\Splash 775x375.png" />
+    <Content Include="Assets\Art Assets\Splash Screen\Splash 930x450.png" />
+    <Content Include="Assets\Art Assets\Logo%27s\Tile 1.png" />
+    <Content Include="Assets\Art Assets\Logo%27s\Tile 2.png" />
+    <Content Include="Assets\Art Assets\Logo%27s\Tile 3.png" />
+    <Content Include="Assets\Art Assets\Logo%27s\Tile 4.png" />
+    <Content Include="Assets\Art Assets\Logo%27s\Tile 5.png" />
+    <Content Include="Assets\Art Assets\Logo%27s\Tile 6.png" />
+    <Content Include="Assets\Art Assets\Tiles\HB.png" />
+    <Content Include="Assets\Art Assets\Tiles\HK.png" />
+    <Content Include="Assets\Art Assets\Tiles\HL.png" />
+    <Content Include="Assets\Art Assets\Tiles\HO.png" />
+    <Content Include="Assets\Art Assets\Tiles\HR.png" />
+    <Content Include="Assets\Art Assets\Tiles\HR3.png" />
+    <Content Include="Assets\Art Assets\Tiles\HR4.png" />
+    <Content Include="Assets\Art Assets\Tiles\HR5.png" />
+    <Content Include="Assets\Art Assets\Tiles\HW.png" />
+    <Content Include="Assets\Art Assets\Tiles\HW3.png" />
+    <Content Include="Assets\Art Assets\Tiles\HW4.png" />
+    <Content Include="Assets\Art Assets\Tiles\HW5.png" />
+    <Content Include="Assets\Art Assets\Logo%27s\white lotus 2.png" />
+    <Content Include="Assets\Art Assets\Logo%27s\white lotus 3.png" />
+    <Content Include="Assets\Art Assets\Logo%27s\white lotus.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
