@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Image HorizontalAlignment="Left" Height="1000" Margin="40,0,0,0" VerticalAlignment="Center" Width="1000" Source="/Assets/Art Assets/Boards/Board 2.png" Stretch="UniformToFill"/>
 
     </Grid>
 </Page>

@@ -131,6 +131,7 @@
     <None Include="Pai Sho_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Art Assets\Boards\Board 2.png" />
     <Content Include="Assets\Art Assets\Splash Screen\Splash 1240x600.png" />
     <Content Include="Assets\Art Assets\Splash Screen\Splash 2480x1200.png" />
     <Content Include="Assets\Art Assets\Splash Screen\Splash 620x300.png" />
