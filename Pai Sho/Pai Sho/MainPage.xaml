@@ -9,7 +9,8 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Image HorizontalAlignment="Left" Height="1000" Margin="40,0,0,0" VerticalAlignment="Center" Width="1000" Source="/Assets/Art Assets/Boards/Board 2.png" Stretch="UniformToFill"/>
-
+        <Button Content="Start Game" HorizontalAlignment="Left" Margin="1699,36,0,0" VerticalAlignment="Top" Height="89" Width="172" FontSize="24"/>
+        <Image HorizontalAlignment="Stretch" Height="1080" VerticalAlignment="Stretch" Width="1982" Source="/Assets/Art Assets/download.png" Stretch="Fill"/>
+        <Image HorizontalAlignment="Left" Height="1080" Margin="1075,0,0,0" VerticalAlignment="Center" Width="845" Source="/Assets/Art Assets/Main Shade.png" Stretch="Fill"/>
     </Grid>
 </Page>

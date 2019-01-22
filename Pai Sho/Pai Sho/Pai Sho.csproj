@@ -132,6 +132,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\Art Assets\Boards\Board 2.png" />
+    <Content Include="Assets\Art Assets\d0b2c7b84b72e661f6f27d5f7d78ccb4571dbb94.png" />
+    <Content Include="Assets\Art Assets\download.png" />
+    <Content Include="Assets\Art Assets\Main Shade.png" />
     <Content Include="Assets\Art Assets\Splash Screen\Splash 1240x600.png" />
     <Content Include="Assets\Art Assets\Splash Screen\Splash 2480x1200.png" />
     <Content Include="Assets\Art Assets\Splash Screen\Splash 620x300.png" />
