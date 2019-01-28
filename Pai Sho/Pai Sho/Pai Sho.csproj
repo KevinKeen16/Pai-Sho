@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{41127095-6A5B-4C24-98CC-5A85F85B20A2}</ProjectGuid>
+    <ProjectGuid>{F59F2718-72A9-4918-BD15-3075C20F2EA7}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Pai_Sho</RootNamespace>
@@ -131,88 +131,21 @@
     <None Include="Pai Sho_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\Art Assets\Boards\Board 2.png" />
-    <Content Include="Assets\Art Assets\d0b2c7b84b72e661f6f27d5f7d78ccb4571dbb94.png" />
-    <Content Include="Assets\Art Assets\download.png" />
-    <Content Include="Assets\Art Assets\Main Shade.png" />
-    <Content Include="Assets\Art Assets\Splash Screen\Splash 1240x600.png" />
-    <Content Include="Assets\Art Assets\Splash Screen\Splash 2480x1200.png" />
-    <Content Include="Assets\Art Assets\Splash Screen\Splash 620x300.png" />
-    <Content Include="Assets\Art Assets\Splash Screen\Splash 775x375.png" />
-    <Content Include="Assets\Art Assets\Splash Screen\Splash 930x450.png" />
-    <Content Include="Assets\Art Assets\Logo%27s\Tile 1.png" />
-    <Content Include="Assets\Art Assets\Logo%27s\Tile 2.png" />
-    <Content Include="Assets\Art Assets\Logo%27s\Tile 3.png" />
-    <Content Include="Assets\Art Assets\Logo%27s\Tile 4.png" />
-    <Content Include="Assets\Art Assets\Logo%27s\Tile 5.png" />
-    <Content Include="Assets\Art Assets\Logo%27s\Tile 6.png" />
-    <Content Include="Assets\Art Assets\Start Icon 2.png" />
-    <Content Include="Assets\Art Assets\Start Icon.png" />
-    <Content Include="Assets\Art Assets\Tiles\HB.png" />
-    <Content Include="Assets\Art Assets\Tiles\HK.png" />
-    <Content Include="Assets\Art Assets\Tiles\HL.png" />
-    <Content Include="Assets\Art Assets\Tiles\HO.png" />
-    <Content Include="Assets\Art Assets\Tiles\HR.png" />
-    <Content Include="Assets\Art Assets\Tiles\HR3.png" />
-    <Content Include="Assets\Art Assets\Tiles\HR4.png" />
-    <Content Include="Assets\Art Assets\Tiles\HR5.png" />
-    <Content Include="Assets\Art Assets\Tiles\HW.png" />
-    <Content Include="Assets\Art Assets\Tiles\HW3.png" />
-    <Content Include="Assets\Art Assets\Tiles\HW4.png" />
-    <Content Include="Assets\Art Assets\Tiles\HW5.png" />
-    <Content Include="Assets\Art Assets\Logo%27s\white lotus 2.png" />
-    <Content Include="Assets\Art Assets\Logo%27s\white lotus 3.png" />
-    <Content Include="Assets\Art Assets\Logo%27s\white lotus.png" />
-    <Content Include="Assets\BadgeLogo.scale-100.png" />
-    <Content Include="Assets\BadgeLogo.scale-125.png" />
-    <Content Include="Assets\BadgeLogo.scale-150.png" />
-    <Content Include="Assets\BadgeLogo.scale-200.png" />
-    <Content Include="Assets\BadgeLogo.scale-400.png" />
-    <Content Include="Assets\LargeTile.scale-100.png" />
-    <Content Include="Assets\LargeTile.scale-125.png" />
-    <Content Include="Assets\LargeTile.scale-150.png" />
-    <Content Include="Assets\LargeTile.scale-200.png" />
-    <Content Include="Assets\SmallTile.scale-100.png" />
-    <Content Include="Assets\SmallTile.scale-125.png" />
-    <Content Include="Assets\SmallTile.scale-150.png" />
-    <Content Include="Assets\SmallTile.scale-200.png" />
-    <Content Include="Assets\SmallTile.scale-400.png" />
-    <Content Include="Assets\SplashScreen.scale-100.png" />
-    <Content Include="Assets\SplashScreen.scale-125.png" />
-    <Content Include="Assets\SplashScreen.scale-150.png" />
-    <Content Include="Assets\SplashScreen.scale-400.png" />
-    <Content Include="Assets\Square150x150Logo.scale-100.png" />
-    <Content Include="Assets\Square150x150Logo.scale-125.png" />
-    <Content Include="Assets\Square150x150Logo.scale-150.png" />
-    <Content Include="Assets\Square150x150Logo.scale-400.png" />
-    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-16.png" />
-    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-256.png" />
-    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-32.png" />
-    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-48.png" />
-    <Content Include="Assets\Square44x44Logo.scale-100.png" />
-    <Content Include="Assets\Square44x44Logo.scale-125.png" />
-    <Content Include="Assets\Square44x44Logo.scale-150.png" />
-    <Content Include="Assets\Square44x44Logo.scale-400.png" />
-    <Content Include="Assets\Square44x44Logo.targetsize-16.png" />
-    <Content Include="Assets\Square44x44Logo.targetsize-24.png" />
-    <Content Include="Assets\Square44x44Logo.targetsize-256.png" />
-    <Content Include="Assets\Square44x44Logo.targetsize-32.png" />
-    <Content Include="Assets\Square44x44Logo.targetsize-48.png" />
-    <Content Include="Assets\StoreLogo.scale-100.png" />
-    <Content Include="Assets\StoreLogo.scale-125.png" />
-    <Content Include="Assets\StoreLogo.scale-150.png" />
-    <Content Include="Assets\StoreLogo.scale-200.png" />
-    <Content Include="Assets\StoreLogo.scale-400.png" />
-    <Content Include="Assets\Wide310x150Logo.scale-100.png" />
-    <Content Include="Assets\Wide310x150Logo.scale-125.png" />
-    <Content Include="Assets\Wide310x150Logo.scale-150.png" />
-    <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="Assets\Buttons\Exit 2 Icon.png" />
+    <Content Include="Assets\Buttons\Exit Icon.png" />
+    <Content Include="Assets\Buttons\Options 2 Icon.png" />
+    <Content Include="Assets\Buttons\Options Icon.png" />
+    <Content Include="Assets\Buttons\Start Icon 2.png" />
+    <Content Include="Assets\Buttons\Start Icon.png" />
+    <Content Include="Assets\Video%27s\2019-01-28 14-06-43.mp4" />
+    <Content Include="Assets\Video%27s\2019-01-28 14-22-59.mp4" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
     <Content Include="Assets\Square150x150Logo.scale-200.png" />
     <Content Include="Assets\Square44x44Logo.scale-200.png" />
     <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
@@ -220,10 +153,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="GameView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -232,9 +161,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
       <Version>6.2.3</Version>
-    </PackageReference>
-    <PackageReference Include="Microsoft.Toolkit.Uwp.UI.Controls">
-      <Version>4.0.0</Version>
     </PackageReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
