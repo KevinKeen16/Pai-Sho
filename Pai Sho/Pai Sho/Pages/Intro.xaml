@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="Pai_Sho.Pages.Intro"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pai_Sho.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <MediaElement HorizontalAlignment="Center" Height="1070" Margin="0,10,0,0" VerticalAlignment="Top" Width="1920" Source="/Assets/Video's/%5C_The+Legend+of+Korra%5C_+Theme+Song+%28HQ%29+%7C+Episode+Opening+Credits+%7C+Nick+Animation.mp4" AudioCategory="ForegroundOnlyMedia"/>
+
+    </Grid>
+</Page>

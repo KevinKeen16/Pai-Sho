@@ -119,8 +119,11 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainPage.xaml.cs">
-      <DependentUpon>MainPage.xaml</DependentUpon>
+    <Compile Include="Pages\Intro.xaml.cs">
+      <DependentUpon>Intro.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Main Menu.xaml.cs">
+      <DependentUpon>Main Menu.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -131,14 +134,17 @@
     <None Include="Pai Sho_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Audio\The Legend of Korra %28Video Game%29 OST - 01 - Startup Screen.mp3" />
     <Content Include="Assets\Buttons\Exit 2 Icon.png" />
     <Content Include="Assets\Buttons\Exit Icon.png" />
     <Content Include="Assets\Buttons\Options 2 Icon.png" />
     <Content Include="Assets\Buttons\Options Icon.png" />
     <Content Include="Assets\Buttons\Start Icon 2.png" />
     <Content Include="Assets\Buttons\Start Icon.png" />
+    <Content Include="Assets\Video%27s\%255C_The+Legend+of+Korra%255C_+Theme+Song+%2528HQ%2529+%257C+Episode+Opening+Credits+%257C+Nick+Animation.mp4" />
     <Content Include="Assets\Video%27s\2019-01-28 14-06-43.mp4" />
     <Content Include="Assets\Video%27s\2019-01-28 14-22-59.mp4" />
+    <Content Include="Assets\Video%27s\The Legend of Korra Theme Song %28HQ%29 Episode Opening Credits Nick Animation.mp4" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
@@ -153,7 +159,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="MainPage.xaml">
+    <Page Include="Pages\Intro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Main Menu.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
